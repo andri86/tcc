@@ -1,2 +1,4 @@
-# tcc
-ini adalah praktikum Teknologi Cloud Computing
+#Praktikum Teknologi Cloud
+------------------------
+####Andri Siswanto/175410166
+------------------------
