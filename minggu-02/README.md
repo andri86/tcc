@@ -11,5 +11,16 @@
 ![alt text](git-push.png)
 
 6. Mengubah Isi dengan Branching and Merging
+   
+   Membuat branch baru
+   ![alt text](create-branch.png)
+   ![alt text](branch2.png)
+
+7. git pull untuk melihat branch yang baru saja kita buat
+   ![alt text](gitpull.png)
+ 
+8. 
+
+
 
 
