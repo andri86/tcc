@@ -12,7 +12,9 @@
 
 6. Mengubah Isi dengan Branching and Merging
    ![alt text](delete-file.png)
+
    Membuat branch baru
+
    ![alt text](create-branch.png)
    ![alt text](branch2.png)
 
@@ -21,6 +23,15 @@
  
 8. Create pull request to sync from another branch
    ![alt text](compare-branch.png)
+   ![alt text](open-pr.png)
+   ![alt text](sync-branch.png)
+   ![alt text](merge-pr.png)
+
+9. Change branch
+   ![alt text](switch-branch.png)
+   
+    ![alt text](checkout-master.png)
+
 
 
 
