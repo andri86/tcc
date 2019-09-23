@@ -28,10 +28,12 @@
    ![alt text](merge-pr.png)
 
 9. Change branch
+
    ![alt text](switch-branch.png)
-   
+
     ![alt text](checkout-master.png)
 
+    ![alt text](pull-ba.png)
 
 
 
