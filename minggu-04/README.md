@@ -50,6 +50,8 @@ Karakteristik berikut menentukan BPAaS :
     Material Requirement Planning (MRP) adalah suatu teknik yang
     digunakan untuk perencanaan dan pengendalian item barang (komponen) yang
     tergantung (dependent) pada item ditingkat (level) yang lebih tinggi.
+
+    ### Contoh Software : ###
     
     * Fishbowl Manufacturing
     Fishbowl adalah otomasi bisnis dan platform manajemen persediaan untuk perusahaan kecil hingga menengah. Ini terintegrasi dengan akuntansi QuickBooks dan menawarkan kontrol inventaris, perencanaan kebutuhan material (MRP), dan pengendalian lantai kerja / pelaksanaan manufaktur.
