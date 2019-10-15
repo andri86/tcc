@@ -16,7 +16,8 @@
    ![alt text](Screenshot_4.png)
 
     - Step 3-Accessing Redis
-   ![alt text](Screenshot_5.png)
+
+      ![alt text](Screenshot_5.png)
 
 
 
