@@ -19,6 +19,21 @@
 
       ![alt text](Screenshot_5.png)
 
+    - Step 4-Accessing Redis
 
+      ![alt text](Screenshot_6.png)
 
+       ![alt text](Screenshot_7.png)
+
+   - Step 5-Persisting Data
+
+      ![alt text](Screenshot_10.png)
+
+    - Step 6-Running A Container In The Foreground
+
+      ![alt text](Screenshot_11.png)
+
+   2. Deploy Static HTML Website as Container  
+
+   - Step 1-Create Dockerfile
 
