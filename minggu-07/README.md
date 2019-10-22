@@ -37,4 +37,5 @@
 
 6. Deploy App
 
-  ![alt text](ss4.png)
+  ![alt text](ss5.png)
+  ![alt text](ss6.png)
