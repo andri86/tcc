@@ -16,6 +16,7 @@
    ![alt text](ss1-6.png)
 
 3. npm
+
    PS C:\Windows\system32> npm i -g now
 
     > now@16.4.0 preinstall C:\Users\Student\AppData\Roaming\npm\node_modules\now
@@ -27,10 +28,13 @@
    PS C:\Windows\system32>
 
 4. Login menggunakan 'now login'
+
   ![alt text](ss2.png)
 
 5. Membuat project Next.js dengan npm
+
   ![alt text](ss3.png)
 
 6. Deploy App
+
   ![alt text](ss4.png)
